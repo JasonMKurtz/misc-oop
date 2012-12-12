@@ -1,5 +1,5 @@
 #!/usr/bin/python
-class SimpleMath:
+class SimpleMath: 
         def __init__(self, num):
                 self.num = num
 
